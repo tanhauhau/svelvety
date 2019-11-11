@@ -1,0 +1,12 @@
+{
+  "name": "svelvety",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "svelte": "^3.13.0"
+  },
+  "devDependencies": {
+    "svelte": "^3.13.0"
+  }
+}
