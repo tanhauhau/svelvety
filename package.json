@@ -4,9 +4,9 @@
   "main": "src/index.js",
   "license": "MIT",
   "peerDependencies": {
-    "svelte": "^3.13.0"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
-    "svelte": "^3.13.0"
+    "svelte": "^3.49.0"
   }
 }
